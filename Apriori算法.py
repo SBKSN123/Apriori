@@ -1,4 +1,3 @@
-import numpy
 import itertools
 minsupport=2
 def loadDataSet(file_name):#读取文件
